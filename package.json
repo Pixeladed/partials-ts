@@ -1,0 +1,10 @@
+{
+  "name": "ts-partials",
+  "version": "1.0.0",
+  "description": "Typescript partials helper",
+  "main": "partials.ts",
+  "repository": "https://github.com/Pixeladed/ts-partials.git",
+  "author": "Minh Le <vietminhle98@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
