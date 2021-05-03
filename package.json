@@ -6,5 +6,8 @@
   "repository": "https://github.com/Pixeladed/ts-partials.git",
   "author": "Minh Le <vietminhle98@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "typescript": "^4.2.4"
+  }
 }
