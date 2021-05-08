@@ -1,5 +1,5 @@
 {
-  "name": "ts-partials",
+  "name": "partials-ts",
   "version": "1.0.1",
   "description": "Typescript partials helper",
   "main": "partials.ts",
