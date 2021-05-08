@@ -1,6 +1,6 @@
 {
   "name": "ts-partials",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typescript partials helper",
   "main": "partials.ts",
   "repository": "https://github.com/Pixeladed/ts-partials.git",
